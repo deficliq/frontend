@@ -48,7 +48,7 @@
 				<h2>What is deficliq?</h2>
 				<p>Deficliq is the first company to provide both collateralized and uncollateralized loans that, too in both p2p and traditional ways, with more features like DAO (off-chain governance), staking, interoperability in one place as a Polkadot</p>
 				</div>	
-				<a href="#" class="paper-but">WHITE PAPER <img src="images/home-img11.svg" alt=""></a>
+				<a href="whitepaper.pdf" class="paper-but" target="_blank">WHITE PAPER <img src="images/home-img11.svg" alt=""></a>
 				<a href="#" class="roadmap-but">ROADMAP <img src="images/home-img10.svg" alt=""></a>
 			</div>
 		</div>

@@ -25,8 +25,9 @@
 				</ul>
 			</div> -->
 			<div class="col-lg-3 col-md" data-aos="fade-up">
-				<h5 style="color: #ee1c50;"><a style="color: #ee1c50;" href="images/Investor-Pitch-Deck-Deficliq-v5.pdf" target="_blank"><img src="images/home-img29.svg" alt="">Pitch Deck</a></h5>
-				<h5><img src="images/home-img28.svg" alt="">White Paper</h5>
+				<h5 style="color: #ee1c50;"><a style="color: #ee1c50;" href="Deficliqpitchdeck.pdf" target="_blank"><img src="images/home-img29.svg" alt="">Pitch Deck</a></h5>
+				<h5 style="color: #ee1c50;"><a style="color: #ee1c50;" href="whitepaper.pdf" target="_blank"><img src="images/home-img28.svg" alt="">White Paper</a></h5>
+
 			</div>
 			<div class="col-lg-3 col-md">
 				<ul class="social">
