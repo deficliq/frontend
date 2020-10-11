@@ -609,11 +609,13 @@
 			<div class="offset-lg-2 col-lg-8 col-md-12">
 				<div class="mob-sec">
 					<h5>OUR TEAM</h5>
-					<h2>Meet Us</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
 				</div>
 				<h2>Our Team</h2>
-				<ul class="teams1">
+
+				<div class="wrap">
+					<p class="text-center"><font color=black>Update Coming Soon</font></p>
+				</div>
+				<!-- <ul class="teams1">
 					<li>
 						<div class="wrap">
 							<img src="images/shantanu.jpg"  alt="">
@@ -705,7 +707,7 @@
 							</div>
 						</div>
 					</li>
-				</ul>				
+				</ul>				 -->
 			</div>
 		</div>
 		<div class="row mt-5">
