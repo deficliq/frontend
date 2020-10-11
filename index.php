@@ -657,7 +657,7 @@
 							<img src="images/ninja.png" alt="">
 							<div class="row align-items-end">
 								<div class="col-lg-8 col-7">
-									<h3>Updates Coming Soon</h3>  
+									<h3>More Ninjas Coming Soon</h3>  
 								</div>
 			
 							</div>
