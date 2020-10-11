@@ -612,10 +612,7 @@
 				</div>
 				<h2>Our Team</h2>
 
-				<div class="wrap">
-					<p class="text-center"><font color=black>Update Coming Soon</font></p>
-				</div>
-				<!-- <ul class="teams1">
+				<ul class="teams1">
 					<li>
 						<div class="wrap">
 							<img src="images/shantanu.jpg"  alt="">
@@ -629,7 +626,7 @@
 							</div>
 						</div>
 					</li>
-					<li>
+					<!-- <li>
 						<div class="wrap">
 							<img src="images/Alizain.jpg"   alt="">
 							<div class="row align-items-end">
@@ -641,7 +638,7 @@
 								</div>
 							</div>
 						</div>
-					</li>
+					</li> -->
 					<li>
 						<div class="wrap">
 							<img src="images/Roy.jpg"  alt="">
@@ -657,6 +654,17 @@
 					</li>
 					<li>
 						<div class="wrap">
+							<img src="images/ninja.png" alt="">
+							<div class="row align-items-end">
+								<div class="col-lg-8 col-7">
+									<h3>Updates Coming Soon</h3>  
+								</div>
+			
+							</div>
+						</div>
+					</li>
+					<!-- <li>
+						<div class="wrap">
 							<img src="images/yasiriqball.jpg" alt="">
 							<div class="row align-items-end">
 								<div class="col-lg-8 col-7">
@@ -667,8 +675,8 @@
 								</div>
 							</div>
 						</div>
-					</li>
-					<li>
+					</li> -->
+					<!-- <li>
 						<div class="wrap">
 							<img src="images/TalhaMalik.jpg" alt="">
 							<div class="row align-items-end">
@@ -680,8 +688,8 @@
 								</div>
 							</div>
 						</div>
-					</li>
-					<li>
+					</li> -->
+					<!-- <li>
 						<div class="wrap">
 							<img src="images/ranafahad.jpg" alt="">
 							<div class="row align-items-end">
@@ -693,8 +701,8 @@
 								</div>
 							</div>
 						</div>
-					</li>
-					<li>
+					</li> -->
+					<!-- <li>
 						<div class="wrap">
 							<img src="images/Ateeqahmad.jpg" alt="">
 							<div class="row align-items-end">
@@ -706,8 +714,8 @@
 								</div>
 							</div>
 						</div>
-					</li>
-				</ul>				 -->
+					</li> -->
+				</ul>				
 			</div>
 		</div>
 		<div class="row mt-5">
